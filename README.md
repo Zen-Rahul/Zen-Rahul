@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rahul Dubey
-- 👀 I’m interested in Web and Mobile app development
+- 👀 I’m interested in Web and Mobile and web app development
 - 🌱 I’m currently learning WPF
 - 💞️ I’m looking to collaborate on dot net framework
 - 📫 How to reach me email me on dubeyrahulrnc@gmail.com
